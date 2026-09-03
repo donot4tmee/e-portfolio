@@ -18,8 +18,8 @@ export const initialProfileData: ProfileData = {
   // Degree / Standing / Target Role
   title: 'Full-Stack Developer & CS Student',
 
-  // Profile Photo (Clean initials fallback or image URL)
-  avatar: '',
+  // Profile Photo
+  avatar: '/assets/profile-picture.png',
 
   tagline: 'Computer Science student and Full-Stack Developer building reliable software systems, clean database architecture, and intuitive user experiences.',
   location: 'Baybay City, Leyte, PH',
