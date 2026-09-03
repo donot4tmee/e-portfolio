@@ -1,17 +1,10 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
-</div>
+# E-Portfolio
 
-# Run and deploy your AI Studio app
-
-This contains everything you need to run your app locally.
-
-View your app in AI Studio: https://ai.studio/apps/71556854-3639-426d-8cd7-bcc7eaefc35d
+This e-portfolio showcases my qualifications, technical skills, education, professional experience, and selected projects. It provides an overview of my background and demonstrates the work I have created as I continue developing as a professional.
 
 ## Run Locally
 
-**Prerequisites:**  Node.js
-
+**Prerequisites:** Node.js
 
 1. Install dependencies:
    `npm install`
